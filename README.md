@@ -8,3 +8,7 @@
 ZaCooke/ZaCooke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+List of possible projects:
+  - Dog trashcan defender
+  - Auto flower petal dropping bucket
+  - IoT conceptual practice
